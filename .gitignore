@@ -1,7 +1,6 @@
-
-                *.json
-                *.css
-                *.js
-                *.jpg
-                *.svg
-                *.txt
+*.json,
+*.css,
+*.js,
+*.jpg,
+*.svg,
+*.txt
